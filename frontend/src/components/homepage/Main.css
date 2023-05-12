@@ -1,0 +1,39 @@
+/* *{
+    overflow-x: hidden;
+    overflow-y: hidden;
+} */
+
+.img{
+    position: relative;
+    top: 20%;
+    /* margin-top: 4.4vh; */
+    /* position: absolute;
+    top: 40vh; */
+
+}
+
+.img img{
+    height: 49.7vh;
+    width: 100%;
+    /* margin-top: 9vh; */
+    /* margin-top: -0.6vh; */
+
+
+    @media(max-width: 1400px) {
+        height: 30.7vh;
+        width: 100vw;
+    }
+    @media(max-width: 1514px) {
+        height: 35.7vh;
+        /* width: 100vw; */
+    }
+    @media(max-width: 900px) {
+        height: 23vh;
+        /* width: 100vw; */
+    }
+    @media(max-width: 470px) {
+        height: 18vh;
+        /* width: 100vw; */
+    }
+
+}

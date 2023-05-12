@@ -1,0 +1,29 @@
+.block{
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    margin: 0 4vw;
+    position: relative;
+    top: 17%;
+    width: 100vw;
+}
+
+.items{
+    margin: 1vw;
+    @media(max-width:841px) {
+        margin: 2vw;
+    }
+}
+
+.items img{
+    width: 28vw;
+    @media(max-width:1000px) {
+        width: 29vw;
+    }
+    @media(max-width:841px) {
+        width: 45vw;
+    }
+    @media(max-width:440px) {
+        /* width: vw; */
+    }
+}

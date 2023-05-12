@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/3/c376b5927473_H-8901030883255.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 2,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/2/421ad2b27058_H-8901030865411.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 3,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/2/f20c57827711_H_8901030942938.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 4,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/e/7eb3a77218602_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 5,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/1/91dd95aORGAA00000014_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 6,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/2/62b6d508906080033483_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 7,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/0/a0d595a8906080030529_2.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 8,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/7/0777d508908005358664_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 9,
+        "brand": "Eye-Care",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/b/7b12eadMINIM00000011_1n.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 10,
+        "brand": "LOREAL",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/2/d2d5d6a8994993016518_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 11,
+        "brand": "TIMELESS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/804bea48806358512057_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 12,
+        "brand": "LOREAL",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/8/68cf1ab6955818205458_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 13,
+        "brand": "m-Caffeine",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/a/2abb06fNYKMCF0000002_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 14,
+        "brand": "DOT & KEY",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/a/ca1026b08904035423600_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 15,
+        "brand": "OLAY",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/9/a9eff5c4902430917964.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 16,
+        "brand": "Pore Care",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/b/cb20ea48806194022857_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 17,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/3/c376b5927473_H-8901030883255.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 18,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/2/421ad2b27058_H-8901030865411.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 19,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/2/f20c57827711_H_8901030942938.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 20,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/e/7eb3a77218602_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 21,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/1/91dd95aORGAA00000014_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 22,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/2/62b6d508906080033483_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 23,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/0/a0d595a8906080030529_2.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 24,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/7/0777d508908005358664_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 25,
+        "brand": "Eye-Care",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/b/7b12eadMINIM00000011_1n.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 26,
+        "brand": "LOREAL",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/2/d2d5d6a8994993016518_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 27,
+        "brand": "TIMELESS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/804bea48806358512057_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 28,
+        "brand": "LOREAL",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/8/68cf1ab6955818205458_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 29,
+        "brand": "m-Caffeine",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/a/2abb06fNYKMCF0000002_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 30,
+        "brand": "DOT & KEY",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/a/ca1026b08904035423600_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 31,
+        "brand": "OLAY",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/9/a9eff5c4902430917964.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 32,
+        "brand": "Pore Care",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/b/cb20ea48806194022857_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 33,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/3/c376b5927473_H-8901030883255.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 34,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/2/421ad2b27058_H-8901030865411.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 35,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/2/f20c57827711_H_8901030942938.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 36,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/e/7eb3a77218602_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 37,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/1/91dd95aORGAA00000014_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 38,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/2/62b6d508906080033483_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 39,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/0/a0d595a8906080030529_2.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 40,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/7/0777d508908005358664_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 41,
+        "brand": "Eye-Care",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/b/7b12eadMINIM00000011_1n.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 42,
+        "brand": "LOREAL",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/2/d2d5d6a8994993016518_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 43,
+        "brand": "TIMELESS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/804bea48806358512057_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 44,
+        "brand": "LOREAL",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/8/68cf1ab6955818205458_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 45,
+        "brand": "m-Caffeine",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/a/2abb06fNYKMCF0000002_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 46,
+        "brand": "DOT & KEY",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/a/ca1026b08904035423600_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 47,
+        "brand": "OLAY",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/9/a9eff5c4902430917964.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 48,
+        "brand": "Pore Care",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/b/cb20ea48806194022857_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 49,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/3/c376b5927473_H-8901030883255.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 50,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/2/421ad2b27058_H-8901030865411.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 51,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/2/f20c57827711_H_8901030942938.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 52,
+        "brand": "PONDS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/e/7eb3a77218602_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 53,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/1/91dd95aORGAA00000014_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 54,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/2/62b6d508906080033483_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 55,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/0/a0d595a8906080030529_2.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 56,
+        "brand": "SoulTree",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/7/0777d508908005358664_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 57,
+        "brand": "Eye-Care",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/b/7b12eadMINIM00000011_1n.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 58,
+        "brand": "LOREAL",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/2/d2d5d6a8994993016518_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 59,
+        "brand": "TIMELESS",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/804bea48806358512057_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 60,
+        "brand": "LOREAL",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/8/68cf1ab6955818205458_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 61,
+        "brand": "m-Caffeine",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/a/2abb06fNYKMCF0000002_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 62,
+        "brand": "DOT & KEY",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/a/ca1026b08904035423600_1.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 63,
+        "brand": "OLAY",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/9/a9eff5c4902430917964.jpg",
+        "price": "4.99"
+    },
+    {
+        "id": 64,
+        "brand": "Pore Care",
+        "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/b/cb20ea48806194022857_1.jpg",
+        "price": "4.99"
+    }
+]
